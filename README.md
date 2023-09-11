@@ -4,7 +4,7 @@
 
  O SQL Server e o SQL Server Management Studio (SSMS) são duas coisas diferentes, mas relacionadas, no ecossistema da Microsoft para gerenciamento de bancos de dados SQL Server. 
 
-# SQL Server
+# Download Sql Server
 
 1 - Acessar o link:
 
