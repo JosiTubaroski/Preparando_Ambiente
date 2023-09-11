@@ -30,6 +30,10 @@ Selecionar Idioma 'English (United States)'
 
 ![SSMS](https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/img/04_Download_SSMS.GIF)
 
+# Criando Estrutura de Dados.
+
+05_Estrutura_Dados.GIF
+
 
 
 
