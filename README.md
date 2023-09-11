@@ -28,6 +28,10 @@ Selecionar Idioma 'English (United States)'
 
 ![SSMS](https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/img/03_SSMS_English.GIF)
 
+![SSMS](https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/img/03_SSMS_English.GIF)
+
+04_Download_SSMS.GIF
+
 
 
 
