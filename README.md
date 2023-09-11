@@ -26,7 +26,7 @@ https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio
 
 Selecionar Idioma 'English (United States)'
 
-![Download_Realizado](https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/img/02_DownloadRealizado.GIF)
+![SSMS](https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/img/03_SSMS_English.GIF)
 
 
 
