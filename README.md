@@ -34,6 +34,8 @@ Selecionar Idioma 'English (United States)'
 
 ![SSMS](https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/img/05_Estrutura_Dados.GIF)
 
+Realizar as Instações e configurações necessárias
+
 
 
 
