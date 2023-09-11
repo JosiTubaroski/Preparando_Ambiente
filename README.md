@@ -10,9 +10,9 @@ https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
 
 ![Download_SQL_Server](https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/img/01_Download_SQLServer.GIF)
 
-![Download_SQL_Server](https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/img/01_Download_SQLServer.GIF)
+![Download_Realizado](https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/img/02_DownloadRealizado.GIF)
 
 
-02_DownloadRealizado.GIF
+
 
 
