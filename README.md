@@ -32,7 +32,11 @@ Selecionar Idioma 'English (United States)'
 
 # Criando Estrutura de Diretorios.
 
-05_Estrutura_Dados.GIF
+![SSMS](https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/img/05_Estrutura_Dados.GIF)
+
+
+
+
 
 
 
