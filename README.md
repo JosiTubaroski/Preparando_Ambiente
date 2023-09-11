@@ -18,9 +18,9 @@ https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
 
 ![Download_Realizado](https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/img/02_DownloadRealizado.GIF)
 
-# SQL Server Management Studio (SSMS)
+# Download Sql Server Management Studio (SSMS)
 
-3 - Download do SQl Server Management Studio (SSMS)
+1 - Download do SQl Server Management Studio (SSMS)
 
 https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
 
