@@ -1,5 +1,7 @@
 # Preparando meu ambiente para criar códigos eficientes!
 
+# SQL Server
+
 1 - Acessar o link:
 
 https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
@@ -11,6 +13,8 @@ https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
 ![Download_SQL_Server](https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/img/01_Download_SQLServer.GIF)
 
 ![Download_Realizado](https://github.com/JosiTubaroski/Preparando_Ambiente/blob/main/img/02_DownloadRealizado.GIF)
+
+# SQL Server Management Studio (SSMS)
 
 3 - Download do SQl Server Management Studio (SSMS)
 
