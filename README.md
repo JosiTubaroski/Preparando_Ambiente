@@ -1,4 +1,8 @@
-# Preparando meu ambiente para criar códigos eficientes!
+# Preparando ambiente SQL Server!
+
+ ## Sobre Sql Server e Sql Server Management Studio
+
+ O SQL Server e o SQL Server Management Studio (SSMS) são duas coisas diferentes, mas relacionadas, no ecossistema da Microsoft para gerenciamento de bancos de dados SQL Server. 
 
 # SQL Server
 
